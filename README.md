@@ -8,5 +8,5 @@ TomoyoBot is a custom emote management bot. She records all custom emotes and st
 Commands:
 ;server		Returns the current server name in chat. Simple test command.
 ;emotes		Returns the list of all recorded emotes and their usage count since TomoyoBot started recording.
-		         *IMPORTANT* Counts will be slightly inflated becase TomoyoBot counts the emotes returned in the list.
-			        Don't spam this emote if you want it to be accurate.
+			*IMPORTANT* Counts will be slightly inflated becase TomoyoBot counts the emotes returned in the list.
+			Don't spam this emote if you want it to be accurate.
